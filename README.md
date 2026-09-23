@@ -20,11 +20,8 @@ An end-to-end machine learning web application designed to predict a restaurant'
 <img width="1600" height="900" alt="res_ss" src="https://github.com/user-attachments/assets/c3943f41-c726-4b49-a7b5-bf8550644163" />
 
 
+
 *(Note: Ensure your screenshot image file is placed inside an `assets/` folder in your project directory, or update the path below to match where your image is saved).*
-
-```
-
-```
 
 ## 🛠 Tech Stack & Dependencies
 
