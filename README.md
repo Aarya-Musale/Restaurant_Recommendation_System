@@ -1,4 +1,4 @@
-# 🍽️ Zomato Restaurant Rating Predictor
+# 🍽️ Restaurant Recommendation System
 
 An end-to-end machine learning web application designed to predict a restaurant's aggregate rating in real-time, providing instant performance insights and scoring using a trained Random Forest model and Streamlit.
 
