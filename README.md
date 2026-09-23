@@ -37,8 +37,6 @@ An end-to-end machine learning web application designed to predict a restaurant'
 ├── assets/
 │   └── screenshot_form.png        # Application output screenshot
 ├── app.py                         # Main Streamlit web application script
-├── generate_pkl.py                # Script used for data processing, model training, and pkl export
-├── zomato_advanced_model.pkl      # Pre-trained Random Forest machine learning model
 ├── cuisine_mlb.pkl                # Fitted MultiLabelBinarizer for cuisine vectorization
 ├── requirements.txt               # List of required Python packages and dependencies
 ├── .gitignore                     # Files and directories ignored by Git
